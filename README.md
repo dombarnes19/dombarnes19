@@ -1,5 +1,5 @@
 ### Hi there, My name is Dominick! 👋
-- I am a Backend Java Developer with an for problem solving and satisfaction for writing clean testable code!
+- I am a Backend Java Developer with eye for problem solving and satisfaction for writing clean testable code!
 - I have a year of experience with Java
 - I am very familiar with version control using Git
 - I have experience using Amazon Web Services in my Development
